@@ -1,0 +1,24 @@
+main: me.DanielLiu.HunterVsSpeedrunner.Main
+name: HunterVsSpeedrunner
+version: 1.0.4
+author: Daniel
+description: A bad hunters vs speedrunners plugin.
+api-version: 1.13
+commands:
+  hunter:
+  runner:
+  clearRoles:
+  removeRunner:
+  removeHunter:
+  compass:
+  resetrun:
+  startrun:
+  hardcoremode:
+  listroles:
+  removeallrunners:
+  removeallhunters:
+  missedPearls:
+  missedRods:
+  missedTrades:
+  missedFlint:
+  resetMisses:
