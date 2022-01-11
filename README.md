@@ -2,7 +2,7 @@
 
 ### Disclaimer: I am not developing this anymore, but I may come back to it. This plugin will probably not work right, especially when people log on and off in the middle of the game. That is why I put in so many debug commands, so feel free to utilize them while playing.
 
-A Minecraft 1.16.5 Spigot plugin created for my friends and me to play.<br>
+A Minecraft 1.17.1 Spigot plugin created for my friends and me to play.<br>
 All inspiration goes to <a href="https://www.youtube.com/dream">Dream</a>, who came up with the concept.<br>
 Support his official plugin and his work <a href="https://www.patreon.com/DreamWasTaken">here</a>.
 
